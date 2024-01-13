@@ -1,0 +1,6 @@
+# L9
+## 6. **Răspundeți la următoarele întrebări:**
+### 1. Utilizați pentru texturare imagini cu transparență și fără. Ce observați?
+### 2. Ce formate de imagine pot fi aplicate în procesul de texturare în OpenGL?
+### 3. Specificați ce se întâmplă atunci când se modifică culoarea (prin manipularea canalelor RGB) obiectului texturat.
+### 4. Ce deosebiri există între scena ce utilizează obiecte texturate în modul iluminare activat, respectiv dezactivat?
