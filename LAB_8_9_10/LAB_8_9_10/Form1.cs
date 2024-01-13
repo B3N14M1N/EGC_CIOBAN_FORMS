@@ -723,6 +723,8 @@ namespace OpenTK_winforms_z02 {
             GL.GenTextures(textures.Length, textures);
             LoadTexture(textures[0], "brickTexture.jpg");
             LoadTexture(textures[1], "OpenGLTexture.png");
+            LoadTexture(textures[1], "transparent.png");
+
         }
 
         private void LoadTexture(int textureId, string filename) {

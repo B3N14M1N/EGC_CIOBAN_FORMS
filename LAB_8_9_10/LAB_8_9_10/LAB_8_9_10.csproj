@@ -146,5 +146,11 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\transparent.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
