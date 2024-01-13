@@ -1,1 +1,1 @@
-#L 8, 9, 10
+# Laboratoarele: 8, 9, 10
